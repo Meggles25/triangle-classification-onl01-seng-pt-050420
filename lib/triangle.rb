@@ -8,7 +8,9 @@ class Triangle
     @side_3 = side_3
   end
   
-  def violates_triangle_equality
+  def kind 
+    violates _triangle_equality 
+    
     
   
   
