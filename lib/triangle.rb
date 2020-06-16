@@ -9,8 +9,7 @@ class Triangle
   end
   
   def kind 
-    violates _triangle_equality 
-    
+   
     
   
   
