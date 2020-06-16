@@ -9,7 +9,8 @@ class Triangle
   end
   
   def kind 
-   
+    sides = [side_1, side_2, side_3]
+    
     
   
   
